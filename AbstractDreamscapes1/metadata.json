@@ -1,0 +1,16 @@
+{
+    "KPlugin": {
+        "Name": "Abstract Dreamscapes 1",
+        "Id": "ad1",
+        "Description": "My dynamic wallpaper",
+        "Authors": [
+            {
+                "Name": "Oliolixinfree"
+            }
+        ],
+        "Version": "1.0",
+        "License": "CC0"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": "#3daee9",
+    "X-KDE-PlasmaImageWallpaper-DarkMode": true
+}
