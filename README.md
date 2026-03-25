@@ -1,7 +1,7 @@
 ## How to use
 Clone or download and unzip the repository to one of the specified locations:
 ```bash
-/home/ivan/.local/share/wallpapers/
+/home/user_name/.local/share/wallpapers/
 ```
 or
 ```bash
